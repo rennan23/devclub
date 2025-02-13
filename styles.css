@@ -76,7 +76,7 @@ p{color: #4B505A;
 }
 @media screen and  (max-width: 800px){
    
-  div{ display:block;
+  div{ display:inline-block;
 
 
  }
@@ -99,7 +99,7 @@ p{  width:245px ;
     font-style: normal;
     font-weight: 400px;
     line-height: 33px;
-    letter-spacing: 0.5px;
+  
 }
 .sign-up{
     width: 91px;
@@ -112,31 +112,19 @@ p{  width:245px ;
 
 }
 img {
-    display:block;
+    display:inline-block;
     width: 350px;
     height: 245px;
     margin-left:19px ;
     margin-top: 7px; 
+    position:absolute ;
+    top:600px ;
+
 }
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-    
 }
-
-
-
-
 
